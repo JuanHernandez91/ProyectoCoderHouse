@@ -1,0 +1,79 @@
+.footer__RedesSociales{
+    list-style-type: none;
+    text-align: center;
+   
+}
+    
+.footer__RedesSociales li{
+    display: inline-block;
+    margin: 10px;
+    margin-top: 45px;
+    justify-content: center;
+}
+
+.derechos{
+    height: 50px;
+    text-align: center;
+}
+
+img{
+    margin: 6px;
+}
+
+.maps{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(248, 247, 247);
+}
+
+.pulpo {
+    object-fit: contain;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    color: rgb(77, 53, 209);
+}
+.pepe{
+    animation-iteration-count:1;
+
+}
+.sumate__p--Parrafo1{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 20px 0;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgb(238, 238, 238);
+    height: 200px;
+    width: 450px;
+}
+.sumate__p--Parrafo2 {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 20px 0;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    /*background-color: rgb(238, 238, 238);*/
+    height: 200px;
+    width: 450px;
+}
+
+.separador{
+border: solid 5px;
+background-color: black;
+}
+
+div a{
+    text-decoration: none;
+}
